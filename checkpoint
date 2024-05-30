@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/hemapavuluri/AIchatbot/model.tflearn"
+all_model_checkpoint_paths: "/Users/hemapavuluri/AIchatbot/model.tflearn"
